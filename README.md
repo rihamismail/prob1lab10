@@ -1,0 +1,2 @@
+# prob1lab10
+Write a Java program that reads a list of Cities from the user and stores them in an LinkedList of type String. After adding the City names to the List, implement the following Instructions: • Print The Elements of the List • Check if a specific City name is in the List or not (Print :True/False) • Remove The Checked element from the list then print the List size • Add new City to the list at specific index • Sort the list based on each City length (number of char) • Print the final list
